@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Flask_Movie_Site
 
 用Flask构建一个微电影视频网站。
@@ -211,6 +212,10 @@ python manage.py runserver
     
 
 
+=======
+# Movie-Website
+flask+mysql+nginx
+>>>>>>> ca6526055b447c80c732dc29b644573922099129
 =======
 # Movie-Website
 flask+mysql+nginx
